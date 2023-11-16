@@ -1,0 +1,10 @@
+At the start of the game, there will be a combination of ranks and suits. All players will start with an empty hand and score 0. A shuffle of the deck will be made.
+
+At the start of the round, a random card from the deck will be picked and issued to the player. After all players have been issued a card, a tabulation of points will be made. Where the player with the highest card point will score the highest point.
+
+Rank values: 2 - 10, J = 11, Q = 12, K = 13, A = 14
+Suit values: Spades = 4, Hearts = 3, Clubs = 2, Diamonds = 1
+
+After each round, a tabulation of all points made through the rounds will be consolidated.
+
+At the end of the game, a final tabulation of all points will be made and the players will be ranked according to the points gained throughout the game.
